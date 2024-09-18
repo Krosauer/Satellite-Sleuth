@@ -5,7 +5,7 @@ import { FaArrowRight, FaReply, FaCloud } from 'react-icons/fa';
 function Game() {
 	
 	const dim = 0.1;
-	const api_key = "2ehUR1cjifeAeuiMR9RLIsuzWi3mf23cR6GuP0iz";
+	const api_key = "API_KEY";
 	const countryCodes = {
 		"Afghanistan": "AF",
 		"Albania": "AL",
